@@ -130,7 +130,11 @@ int main() {
 
     cout << "Board before solving: \n" << endl;
     show(board);
-    cout << "\n\nsolving..."<<endl;
+
+    cout << "Press enter to solve... ";
+    cin.ignore();
+    string _; getline(cin, _);
+    cout << "\nSolving..."<<endl;
 
     solve(level, 0, board, editableMask, lineMask, coluMask, squaMask);
 
