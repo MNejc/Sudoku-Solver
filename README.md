@@ -1,7 +1,7 @@
 
 # Sudoku Solver
 
-This program solves Sudoku puzzles using a backtracking algorithm. It supports generating random Sudoku puzzles or reading a puzzle from a file. The program then attempts to solve the puzzle and displays the solution.
+This is an **old project from 2023**. The program solves Sudoku puzzles using a backtracking algorithm. It supports generating random Sudoku puzzles or reading a puzzle from a file. The program then attempts to solve the puzzle and displays the solution.
 
 ## Features
 
